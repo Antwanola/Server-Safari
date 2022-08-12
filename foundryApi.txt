@@ -1,0 +1,2 @@
+Userapi
+/payment ---> This gets the amount, currency, description of a transaction.
